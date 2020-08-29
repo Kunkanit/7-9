@@ -1,0 +1,5 @@
+﻿  Fixed deposit.cpp
+D:\VS\c++1\ttt\ttt\Fixed deposit.cpp(31,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\c++1\ttt\ttt\Fixed deposit.cpp(39,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\c++1\ttt\ttt\Fixed deposit.cpp(49,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ttt.vcxproj -> D:\VS\c++1\ttt\Debug\ttt.exe
